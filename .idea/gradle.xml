@@ -5,6 +5,9 @@
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/employee" />
       </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/test1" />
+      </GradleProjectSettings>
     </option>
   </component>
 </project>
